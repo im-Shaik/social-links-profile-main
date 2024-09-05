@@ -2,6 +2,8 @@
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
+Preview the site (https://im-shaik.github.io/social-links-profile-main/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
